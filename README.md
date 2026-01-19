@@ -49,9 +49,27 @@ B.Tech (AI & ML) | Fullstack Developer | AI Enthusiast
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="50"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="50"/>
   <img width="12" />
-</div>
+  <img src="https://skillicons.dev/icons?i=vite" height="50"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50"/>
+  <img width="12" />
+
 
 ---
 

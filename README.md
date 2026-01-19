@@ -7,8 +7,7 @@ B.Tech (AI & ML) Student @ DJ Sanghvi | Frontend Developer | AI Enthusiast
 ---
 
 ### 👩‍💻 About Me
-- 🎓 B.Tech in **Artificial Intelligence & Machine Learning** (CGPA: **9.38**)
-- 💻 Tech Intern at **GramIQ** (React.js, Auth, Dashboards)
+- 🎓 B.Tech in **Artificial Intelligence & Machine Learning** (CGPA: **9.4**)
 - 🏆 **Winner – Code for Good Hackathon 2025 (JP Morgan Chase)**
 - 🌱 Interested in **AI, Brain Simulation, Frontend Systems & UX**
 - 🤝 Open to internships, collaborations, and impactful tech projects
@@ -17,15 +16,26 @@ B.Tech (AI & ML) Student @ DJ Sanghvi | Frontend Developer | AI Enthusiast
 
 ### 🛠 Tech Stack
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="50"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  <img width="12" />
 </div>
 
 ---
@@ -43,9 +53,3 @@ B.Tech (AI & ML) Student @ DJ Sanghvi | Frontend Developer | AI Enthusiast
   </a>
 </div>
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=manushribhuyan&theme=dracula" height="150"/>
-</div>

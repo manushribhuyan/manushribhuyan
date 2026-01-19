@@ -1,8 +1,12 @@
 <h1 align="center">Hey 👋 I'm Manushri Bhuyan</h1>
 
 <h3 align="center">
-B.Tech (AI & ML) Student @ DJ Sanghvi | Frontend Developer | AI Enthusiast
+B.Tech (AI & ML) | Fullstack Developer | AI Enthusiast
 </h3>
+
+<div align="center">
+  <img src="https://media.tenor.com/images/4c0c07e9b6c8c1f90c8a1b8e7d5b5b94/tenor.gif" width="250"/>
+</div>
 
 ---
 
